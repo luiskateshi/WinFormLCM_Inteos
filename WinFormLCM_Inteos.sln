@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormLCM_Inteos", "WinFormLCM_Inteos\WinFormLCM_Inteos.csproj", "{ED929ECE-E659-488A-9361-7E97DB97CDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED929ECE-E659-488A-9361-7E97DB97CDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED929ECE-E659-488A-9361-7E97DB97CDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED929ECE-E659-488A-9361-7E97DB97CDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED929ECE-E659-488A-9361-7E97DB97CDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4249A9F6-08EC-41F7-820E-6A91EAD4AAD4}
+	EndGlobalSection
+EndGlobal
